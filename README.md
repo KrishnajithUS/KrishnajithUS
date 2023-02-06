@@ -1,7 +1,10 @@
 # Profile
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Krishnajith U S</h1>
 <h3 align="center">A passionate Full Stack Python developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img src="https://t3.ftcdn.net/jpg/01/21/16/42/360_F_121164243_YwTDb5JLRTXBdXGkJ4bLZEJmLB1hwp6K.jpg" />
+
 - 🔭 I’m currently working on **a Freelancing Project**
 
 - 🌱 I’m currently learning **Django Rest and React**
