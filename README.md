@@ -1,12 +1,12 @@
 # Profile
 <h1 align="center">Hi 👋, I'm Krishnajith U S</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
+<h3 align="center">A passionate Full Stack Python developer from India</h3>
+<img src="https://t3.ftcdn.net/jpg/01/21/16/42/360_F_121164243_YwTDb5JLRTXBdXGkJ4bLZEJmLB1hwp6K.jpg" />
 - 🔭 I’m currently working on **a Freelancing Project**
 
 - 🌱 I’m currently learning **Django Rest and React**
 
-- 👨‍💻 All of my projects are available at [https://krishnajithus123.netlify.app/](https://krishnajithus123.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krishnajith.netlify.app/](https://krishnajithu.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
