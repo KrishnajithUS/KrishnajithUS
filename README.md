@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django Rest and React**
 
-- 👨‍💻 All of my projects are available at [https://krishnajith.netlify.app/](https://krishnajithu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krishnajith.netlify.app/](https://krishnajith.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
