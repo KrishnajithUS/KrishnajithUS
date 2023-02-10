@@ -9,7 +9,18 @@
 - 🌱 I’m currently learning **Django Rest and React**
 
 - 👨‍💻 All of my projects are available at [https://krishnajith.netlify.app/](https://krishnajith.netlify.app/)
+<h1>Projects</h1>
+- [Lancer](https://github.com/KrishnajithUS/Lancer): This is a Freelancing website for Freelancers and normal Users
+built using React JS, Django, SQL and Redux. Freelancer
+can post their Services, users can connect with Freelancer's through Chat.
+live demo:("lancer.online")
 
+- [LapCare](https://github.com/KrishnajithUS/LapCare_Ecom):  This is an e-commerce website for Premium Laptops such as
+Apple, Dell, Asus and HP. Users can view
+various products and add the product to their cart and pay
+for the product. Also this website has a fully functional
+admin side. The website is hosted on AWS EC2 instance
+using Nginx.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
