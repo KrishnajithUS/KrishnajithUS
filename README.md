@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning **Django Rest and React**
 
 - 👨‍💻 All of my projects are available at [https://krishnajith.netlify.app/](https://krishnajith.netlify.app/)
+- <div>
 <h1>Projects</h1>
+  </div>
 - [Lancer](https://github.com/KrishnajithUS/Lancer): This is a Freelancing website for Freelancers and normal Users
 built using React JS, Django, SQL and Redux. Freelancer
 can post their Services, users can connect with Freelancer's through Chat.
