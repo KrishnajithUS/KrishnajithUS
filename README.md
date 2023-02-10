@@ -23,7 +23,7 @@ using Nginx.
 - [Lancer](https://github.com/KrishnajithUS/Lancer): This is a Freelancing website for Freelancers and normal Users
 built using React JS, Django, SQL and Redux. Freelancer
 can post their Services, users can connect with Freelancer's through Chat.
-live demo:[lancer.online](lancer.online)
+live demo:[lancer.online](https://lancer.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
