@@ -12,10 +12,7 @@
 - <div>
 <h1>Projects</h1>
   </div>
-- [Lancer](https://github.com/KrishnajithUS/Lancer): This is a Freelancing website for Freelancers and normal Users
-built using React JS, Django, SQL and Redux. Freelancer
-can post their Services, users can connect with Freelancer's through Chat.
-live demo:("lancer.online")
+
 
 - [LapCare](https://github.com/KrishnajithUS/LapCare_Ecom):  This is an e-commerce website for Premium Laptops such as
 Apple, Dell, Asus and HP. Users can view
