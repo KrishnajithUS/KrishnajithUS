@@ -20,6 +20,11 @@ various products and add the product to their cart and pay
 for the product. Also this website has a fully functional
 admin side. The website is hosted on AWS EC2 instance
 using Nginx.
+- [Lancer](https://github.com/KrishnajithUS/Lancer): This is a Freelancing website for Freelancers and normal Users
+built using React JS, Django, SQL and Redux. Freelancer
+can post their Services, users can connect with Freelancer's through Chat.
+\
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
