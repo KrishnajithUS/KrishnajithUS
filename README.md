@@ -33,7 +33,7 @@ Hi 👋, I'm Krishnajith U S, a passionate Backend Developer from India.
 - Freelancers can post services, and users can connect with freelancers through chat.
 
 ## Connect with Me
-- [LinkedIn](#) <!-- Add your LinkedIn profile link here -->
+- [LinkedIn](https://www.linkedin.com/in/krishnajith-u-s-660992228/) <!-- Add your LinkedIn profile link here -->
 
 ## Languages and Tools
 - Bootstrap, C, Django, JavaScript, Linux, MongoDB, MySQL, Nginx, PostgreSQL, Python, React, Tailwind CSS.
