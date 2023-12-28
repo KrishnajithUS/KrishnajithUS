@@ -36,7 +36,10 @@ Hi 👋, I'm Krishnajith U S, a passionate Backend Developer from India.
 - [LinkedIn](https://www.linkedin.com/in/krishnajith-u-s-660992228/) <!-- Add your LinkedIn profile link here -->
 
 ## Languages and Tools
-- Bootstrap, C, Django, JavaScript, Linux, MongoDB, MySQL, Nginx, PostgreSQL, Python, React, Tailwind CSS.
+- Bootstrap, C, Django, JavaScript, Linux
+- MongoDB, MySQL, Nginx, PostgreSQL
+- Python, React, Tailwind CSS, Node Js
+- FastApi, MongoDB, Mongoose
 
 Feel free to connect with me! 🚀
 
