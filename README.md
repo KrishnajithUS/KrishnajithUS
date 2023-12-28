@@ -11,8 +11,13 @@ Hi 👋, I'm Krishnajith U S, a passionate Backend Developer from India.
 - 🔭 I’m currently working on **creating innovative software projects**
 
 ## Skills and Expertise
-- Proficient in deploying Django projects to servers using Docker Compose and managing them with Nginx.
-- Experienced in working with Chart.js, jQuery, and Django templates for dynamic web development.
+- Experience in creating cutting-edge web applications using Django.
+- Experience in designing and developing APIs using Django Rest Framework (DRF).
+- Proficient in developing APIs using Node.js and FastAPI.
+- Proficient in writing SQL queries and optimizing queries using ORM.
+- Proficient in working with MongoDB and Mongoose.
+- Experience in deploying projects using Docker, managing multiple containers using Docker Compose, and deploying to servers.
+
 
 ## Projects
 
