@@ -7,9 +7,7 @@
 - 🔭 I’m currently working on **a Freelancing Project**
 
 - 🌱 I’m currently learning **Django Rest and React**
-
-- 👨‍💻 All of my projects are available at [https://krishnajith.netlify.app/](https://krishnajith.netlify.app/)
-- <div>
+ <div>
 <h1>Projects</h1>
   </div>
 
