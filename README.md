@@ -1,45 +1,101 @@
-# Krishnajith U S - Backend Developer
+# Krishnajith U S - Backend Engineer
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 ## About Me
-Hi 👋, I'm Krishnajith U S, a passionate Backend Developer from India.
+Backend engineer focused on building **high-throughput, distributed systems**.
 
-## Current Work
-- 🔭 I’m currently working on **creating innovative software projects**
+I work on real-world scale problems involving:
+- Millions of events per day
+- IoT device communication
+- Reliable data pipelines
+- Fault-tolerant architectures
 
-## Skills and Expertise
-- Experience in creating cutting-edge web applications using Django.
-- Experience in designing and developing APIs using Django Rest Framework (DRF).
-- Proficient in developing APIs using Node.js and FastAPI.
-- Proficient in writing SQL queries and optimizing queries using ORM.
-- Proficient in working with MongoDB and Mongoose.
-- Experience in deploying projects using Docker, managing multiple containers using Docker Compose, and deploying to servers.
+I care about **performance, correctness, and system design**, not just writing code.
 
+---
 
-## Projects
+## What I Work On
+- Designing **Kafka-based event-driven systems**
+- Building **IoT backend infrastructure (MQTT + brokers)**
+- Optimizing **MongoDB & PostgreSQL queries at scale**
+- Implementing **idempotent, fault-tolerant processing pipelines**
+- Handling **high-volume ingestion (~millions of messages/day)**
 
-### [LapCare](https://github.com/KrishnajithUS/LapCare_Ecom)
-- E-commerce website for premium laptops (Apple, Dell, Asus, and HP).
-- Users can view products, add them to the cart, and make purchases.
-- Fully functional admin side.
-- Hosted on AWS EC2 instance using Nginx.
+---
 
-### [Lancer](https://github.com/KrishnajithUS/Lancer)
-- Freelancing website for both freelancers and users.
-- Built using React JS, Django, SQL, and Redux.
-- Freelancers can post services, and users can connect with freelancers through chat.
+## Tech Stack
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/krishnajith-u-s-660992228/) <!-- Add your LinkedIn profile link here -->
+### Languages
+- Go (Primary)
+- Python
 
-## Languages and Tools
-- Bootstrap, C, Django, JavaScript, Linux
-- MongoDB, MySQL, Nginx, PostgreSQL
-- Python, React, Tailwind CSS, Node Js
-- FastApi, MongoDB, Mongoose
+### Backend & Systems
+- Distributed Systems Design
+- Event-Driven Architecture
+- Microservices
 
-Feel free to connect with me! 🚀
+### Messaging & Streaming
+- Apache Kafka
+- MQTT
 
+### Databases
+- MongoDB (Bulk ops, schema redesign, performance tuning)
+- PostgreSQL (Schema design, constraints, indexing)
+- Redis (Caching, TTL-based workflows)
+
+### Tools & Concepts
+- GORM
+- Docker (basic usage)
+- System Design (Scalability, Fault Tolerance)
+- Observability & Logging
+
+---
+
+## Key Strengths
+
+- **System Design Thinking**  
+  I don’t just write APIs — I design systems that scale and survive failure.
+
+- **Performance Optimization**  
+  Reduced bottlenecks by replacing naive DB operations with bulk processing.
+
+- **Ownership**  
+  Designed Kafka infrastructure, retry mechanisms, and backfill systems from scratch.
+
+- **Deep Debugging Ability**  
+  Can read unfamiliar codebases (even in other languages) and extract logic quickly.
+
+---
+
+## Projects / Work Highlights
+
+- Built a **Kafka-MQTT pipeline** handling device communication at scale
+- Designed **retry + DLQ mechanisms** for failure handling
+- Implemented **bulk database operations** to replace inefficient per-record updates
+- Worked on **IoT command dispatch systems** for large fleets of devices
+- Contributed to **data modeling and schema evolution**
+
+---
+
+## What I’m Improving Now
+
+- Data Structures & Algorithms (for stronger fundamentals)
+- Advanced System Design
+- Low-level design patterns
+- Deep dive into databases internals
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/krishnajith-u-s-660992228/
+- Email: krishnajithdev673@gmail.com
+
+---
+
+## Note
+
+If you're looking for someone who understands **scale, failures, and systems**, we should talk.
