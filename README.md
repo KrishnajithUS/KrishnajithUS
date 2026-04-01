@@ -78,14 +78,6 @@ I care about **performance, correctness, and system design**, not just writing c
 - Worked on **IoT command dispatch systems** for large fleets of devices
 - Contributed to **data modeling and schema evolution**
 
----
-
-## What I’m Improving Now
-
-- Data Structures & Algorithms (for stronger fundamentals)
-- Advanced System Design
-- Low-level design patterns
-- Deep dive into databases internals
 
 ---
 
